@@ -9,9 +9,9 @@
 
 ### **2️⃣ Instalirajte PNPM**
 Omogućite PNPM sa sledećom komandom:
-
+```
 corepack enable pnpm
-
+```
 
 ### **3️⃣ Instalirajte TypeScript**
 🔗 [Preuzmite TypeScript](https://www.typescriptlang.org/download)  
