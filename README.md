@@ -1,4 +1,4 @@
-# Modern React Stack Starter
+# react-typescript-vite-tailwind-shadcn-starter
 
 A feature-complete starter template with the latest frontend technologies:
 
